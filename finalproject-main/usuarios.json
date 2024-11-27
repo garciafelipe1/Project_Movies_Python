@@ -1,0 +1,21 @@
+[
+    {"usuarios":
+        [
+         {
+            "id":1,
+            "usuario":"JoseLuis",
+            "contrasenia":"elRAYO"
+         },
+         {
+            "id":2,
+            "usuario":"feligarcia",
+            "contrasenia":"forunculo123"
+         },
+         {
+            "id":3,
+            "usuario":"Maria",
+            "contrasenia":"BINOMO1"
+         }
+        ]
+    }
+]
