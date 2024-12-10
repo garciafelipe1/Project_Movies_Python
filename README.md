@@ -7,3 +7,6 @@ En este Proyecto se usan estas tecnologias :
 Python,
 Json,
 Flask
+
+
+Para que ande primero entra al venv\Scripts\activate  para poder correr la lista de sus peliculas y funcionalidades
